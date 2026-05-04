@@ -1,36 +1,32 @@
 # Week 4: JavaScript Fundamentals
 
 ## Author
-- **Name:** Prince Mwangi
-- **GitHub:** https://github.com/prinzjames
-- **Date:** May 2026
+- Name: Prince Mwangi
+- GitHub: https://github.com/prinzjames
+- Date: May 2026
 
 ## Project Description
-This project introduces JavaScript fundamentals including variables, data types, operators, and functions. It also includes a working calculator built using JavaScript.
+This project covers JavaScript basics including variables, functions, control flow, arrays, objects, and mini projects like a calculator and grade tracker.
 
 ## Technologies Used
 - HTML5
 - JavaScript
 
 ## Features
-- Variables and data types
-- Basic operators
-- Functions (arrow + normal)
-- Calculator with multiple operations
+- Calculator using functions
+- FizzBuzz logic
+- Array methods (map, filter, reduce)
+- Student grade tracker
 
 ## How to Run
-1. Clone the repository
-2. Open index.html in your browser
-3. Open console (F12)
+1. Open index.html in your browser
+2. Open console (F12) to see output
 
 ## Lessons Learned
 - How JavaScript works
-- How to write functions
-- How to build logic using switch statements
+- Functions and logic building
+- Data manipulation
 
 ## Challenges Faced
-- Understanding functions
-- Handling division by zero
-
-## Live Demo
-Not deployed
+- Understanding objects and arrays
+- Solved by practice and testing in console
